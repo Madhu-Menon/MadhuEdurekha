@@ -1,0 +1,5 @@
+This is the second file created in repo.
+
+Will be running and testing some git commands.
+
+This will help memorize and gain confidence.
