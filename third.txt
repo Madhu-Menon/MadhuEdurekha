@@ -1,0 +1,1 @@
+This is my thrid file created to test the git ls-files command if its able to track this file without git add and git commit.
